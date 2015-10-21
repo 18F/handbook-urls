@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>Jekyll URL Shortener</h1>
+
+<h2>Registered URLs</h2>
+{% assign urls = site.pages | where: "layout", "url" %}
+<ol>
+  {% for page in urls %}
+    <li>{{ page.title }} - <a href="{{ page.permalink | prepend: site.baseurl }}">{{ page.permalink }}</a></li>
+  {% endfor %}
+</ol>

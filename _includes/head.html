@@ -1,0 +1,13 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  {% if page.linkTo %}
+   <meta http-equiv="refresh" content="0;URL='{{ page.linkTo }}'" />
+  {% endif %}
+
+  <script>
+    console.log('Other things can happen too');
+    console.log('Like firing analytics events, etc');
+  </script>
+</head>
