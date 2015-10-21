@@ -12,6 +12,10 @@ This is a Jekyll project, so you'll need to make sure you have [Jekyll installed
 
 The site will then be available at [http://127.0.0.1:4000](http://127.0.0.1:4000).
 
+## Creating a URL
+
+Simply add a new page to the `pages` directory and follow the format of other pages. 
+
 ## Public domain
 
 This project is in the worldwide public domain. As stated in CONTRIBUTING:
