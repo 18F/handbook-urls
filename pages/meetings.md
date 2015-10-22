@@ -2,5 +2,5 @@
 layout: 'url'
 title: 'Meetings'
 permalink: 'meetings/'
-linkTo: 'https://docs.google.com/document/d/1iGLhvF-GghyOUzBmUZ_MZ6AhbsOUjpppqcHkHYOOjBI/edit#'
+linkTo: 'https://github.com/18F/handbook/blob/staging/03-working-at-18f/meetings-and-meeting-tools.md'
 ---
