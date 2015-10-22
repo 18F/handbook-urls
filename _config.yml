@@ -11,3 +11,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 markdown: kramdown
 include:
   - _navigation.json
+
+# Page settings
+defaults:
+  -
+    scope:
+      path: "pages" # an empty string here means all files in the project
+    values:
+      layout: "url"
+      permalink: /:basename/

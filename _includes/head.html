@@ -2,8 +2,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  {% if page.linkTo %}
-   <meta http-equiv="refresh" content="0;URL='{{ page.linkTo }}'" />
+  {% if page.layout == 'url' %}
+  <meta http-equiv="refresh" content="0;URL='{{ content | strip_html }}'" />
   {% endif %}
 
   <script>
