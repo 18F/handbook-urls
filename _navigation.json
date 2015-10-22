@@ -2,13 +2,11 @@
 ---
 
 [
-  {% assign urls = site.pages | where: "layout", "url" %}
-  {% for page in urls %}
+  {% for url in site.urls %}
     {
-      "title": "{{ page.title }}",
-      "layout": "{{ page.layout }}",
-      "permalink": "{{ page.permalink }}",
-      "href": "{{ page.path }}"
+      "title": "{{ url.relative_path | remove: '_urls/' | remove: '.md' }}",
+      "permalink": "{{ url.url }}",
+      "href": "{{ url.relative_path }}"
     } {% if forloop.rindex != 1 %},{% endif %}
   {% endfor %}
 ]
