@@ -22,6 +22,6 @@ permalink: pretty
 defaults:
   -
     scope:
-      path: "pages" # an empty string here means all files in the project
+      type: "urls" # an empty string here means all files in the project
     values:
       layout: "url"
