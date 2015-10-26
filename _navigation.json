@@ -4,7 +4,7 @@
 [
   {% for url in site.urls %}
     {
-      "title": "{{ url.relative_path | remove: '_urls/' | remove: '.md' }}",
+      "title": "{{ url.relative_path | remove: '_urls' | remove: '.md' }}",
       "permalink": "{{ url.url }}",
       "href": "{{ url.relative_path }}"
     } {% if forloop.rindex != 1 %},{% endif %}
