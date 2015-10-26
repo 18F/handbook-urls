@@ -1,3 +1,3 @@
 ---
 ---
-https://docs.google.com/document/d/1lIYe_lftknODvhgYa4m2YaQsKufF-ArHZJLaNkqpHCw/edit
+https://github.com/18F/handbook/blob/staging/06-team-guides/ops.md
