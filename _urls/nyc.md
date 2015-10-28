@@ -1,3 +1,3 @@
 ---
 ---
-https://docs.google.com/document/d/1XAoD03yq4gTuaEL1QzmdzXRAwTpUNxbkxME2poRomNU/edit
+https://github.com/18F/handbook/blob/staging/articles/new-york-city.md
