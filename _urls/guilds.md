@@ -1,3 +1,3 @@
 ---
 ---
-https://docs.google.com/document/d/1NT_4YrveUeAq4BFDtRl7MZgj35A7ymp_QP9ReO0UJMw/edit#
+https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/working-groups-and-guilds-101.md

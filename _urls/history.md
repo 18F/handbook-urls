@@ -1,3 +1,3 @@
 ---
 ---
-https://docs.google.com/document/d/1Wz4Woj3yivmQuV3xl0_niw4WG_CjNmrGw-G-RjHg2cE/edit
+https://github.com/18F/handbook/blob/staging/articles/2-about-us/history.md
