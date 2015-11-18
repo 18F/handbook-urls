@@ -1,3 +1,3 @@
 ---
 ---
-https://github.com/18F/handbook/blob/staging/articles/washington-dc.md
+https://github.com/18F/handbook/blob/staging/articles/2-about-us/offices/washington-dc.md
