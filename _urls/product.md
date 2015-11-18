@@ -1,3 +1,3 @@
 ---
 ---
-https://drive.google.com/open?id=12zgHtUWK_QfTIn1E5hLXXvVrNNdb6WfdqEd8NqCMfH0
+https://github.com/18F/handbook/blob/professional-development-and-training.md/articles/5-training-and-professional-development/seminars/intro-to-product-and-open-source.md

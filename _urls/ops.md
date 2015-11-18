@@ -1,3 +1,3 @@
 ---
 ---
-https://github.com/18F/handbook/blob/staging/06-team-guides/ops.md
+https://github.com/18F/handbook/blob/staging/articles/2-about-us/teams/ops.md

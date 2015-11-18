@@ -1,3 +1,3 @@
 ---
 ---
-https://github.com/18F/handbook/blob/staging/articles/github-and-18f-site.md
+https://docs.google.com/document/d/1aqXT0oj6nVUuKzGIDnDW1-d9gJOJmxHQbff6HXVZiNM/edit

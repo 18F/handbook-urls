@@ -1,3 +1,3 @@
 ---
 ---
-https://drive.google.com/open?id=1KhunIsm-YukUMBEsazJC1-vNxti0It3NAqMIGV26j5o
+https://docs.google.com/document/d/1wy7niG5MtIz7u3Bae6ZNjiowcazfLAYrzplHUK48O_Q/edit
