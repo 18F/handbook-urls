@@ -3,8 +3,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   {% if page.layout == 'url' %}
-  <meta http-equiv="refresh" content="0;URL='{{ content | strip_html }}'" />
+  <noscript><meta http-equiv="refresh" content="0;URL='{{ content | strip_html }}'"></noscript>
   {% endif %}
+
+  <meta id="destination" content="{{ content | strip_html }}">
+
+  <script>
+    var destination = document.querySelector('#destination').content;
+    var hash = window.location.hash;
+
+    var redirectUrl = destination.trim() + hash;
+    window.location = redirectUrl;
+  </script>
 
   <script>
     console.log('Other things can happen too');
