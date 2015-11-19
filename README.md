@@ -16,6 +16,120 @@ The site will then be available at [http://127.0.0.1:4000](http://127.0.0.1:4000
 
 Simply add a new page to the `pages` directory and follow the format of other pages. 
 
+The current list of URLs is:
+
+```
+18f-classes
+acano
+amazon-web-services
+anyconnect
+appearin
+atom
+benefits
+buddy-handbook
+chicago
+code-of-conduct
+concur
+consulting
+core-values
+dc
+design
+dev
+distributed
+docker
+engineering
+equipment
+ethnio
+federal-records
+getting-started
+git
+github-and-18f-site
+github
+glossary
+google-calendar
+google-docs
+google-drive
+google-hangouts
+gsa-tools
+guides
+hatch-act-foia-ethics-and-code-of-conduct
+hiring
+history-and-values
+individual-development-plans
+infrastructure
+intro-to-18f-consulting
+intro-to-18f-engineering
+intro-to-18f-infrastructure
+intro-to-outreach
+intro-to-product-and-open-source
+intro-to-the-18f-blog
+intro-to-the-diversity-working-group
+intro-to-writing-lab
+invision
+leave-telework-and-virtual-work
+meetings-and-meeting-tools
+meetings
+mission
+murally
+networks
+new-york-city
+nyc
+onboarding-buddies
+onboarding-checklist
+onboarding-schedule
+onboarding
+open-source
+operations
+ops
+org-chart
+outreach
+performance-plans
+product-lead
+product
+professional-development-and-training
+project-intake-101
+project-selection
+projects
+quicktime
+remote-access
+remote
+san-francisco
+security-and-privacy
+seminars
+sfo
+sketch
+slack-and-social-media
+slack
+social-media
+sublime
+talent
+terminal
+text-editors
+tock
+tools
+tracking-time
+training
+travel-101
+travel
+trello
+twitter
+ubuntu
+waffle
+washington-dc
+welcome
+working-groups-and-guilds-101
+workshops
+```
+
+### Regenerating this list
+
+On a UNIX or OS X system, in your local clone of this repository, run the
+following command:
+
+```shell
+$ ls _urls/*.md | sed -e 's@_urls/\(.*\)\.md$@\1@' | grep -v '^$' 
+```
+
 ## Public domain
 
 This project is in the worldwide public domain. As stated in CONTRIBUTING:
