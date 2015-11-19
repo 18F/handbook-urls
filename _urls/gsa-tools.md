@@ -1,3 +1,3 @@
 ---
 ---
-https://docs.google.com/document/d/1dmCOUEpYgAzbppvOqeLrElsVD2Gxvh7aQeyzFjaZYuY/edit
+https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/gsa-tools.md
