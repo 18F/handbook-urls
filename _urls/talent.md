@@ -1,3 +1,3 @@
 ---
 ---
-https://github.com/18F/handbook/blob/professional-development-and-training.md/articles/2-about-us/teams/talent.md
+https://github.com/18F/handbook/blob/staging/articles/2-about-us/teams/talent.md
