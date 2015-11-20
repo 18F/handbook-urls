@@ -1,3 +1,3 @@
 ---
 ---
-https://github.com/18F/handbook/blob/professional-development-and-training.md/articles/2-about-us/teams/outreach.md
+https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/intro-to-the-18F-blog.md

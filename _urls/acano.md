@@ -1,3 +1,3 @@
 ---
 ---
-https://docs.google.com/document/d/1Cj-hDcNmJMmi_zuzjlJNJFk-ip2CLFc277y6hOVwPow/edit#
+https://github.com/18F/handbook/blob/staging/articles/4-how-we-work/tools/acano.md
