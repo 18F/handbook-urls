@@ -20,7 +20,9 @@ The current list of URLs is:
 
 ```
 18f-classes
+18f-classes
 acano
+accessibility
 amazon-web-services
 anyconnect
 appearin
@@ -28,6 +30,7 @@ atom
 benefits
 buddy-handbook
 chicago
+classes
 code-of-conduct
 concur
 consulting
@@ -52,9 +55,10 @@ google-drive
 google-hangouts
 gsa-tools
 guides
-hatch-act-foia-ethics-and-code-of-conduct
+hatch-act-foia-ethics-code-of-conduct
 hiring
 history-and-values
+iaa
 individual-development-plans
 infrastructure
 intro-to-18f-consulting
@@ -95,7 +99,6 @@ remote-access
 remote
 san-francisco
 security-and-privacy
-seminars
 sfo
 sketch
 slack-and-social-media
