@@ -1,3 +1,3 @@
 ---
 ---
-https://handbook.18f.gov/intro-to-product-and-open-source
+https://github.com/18F/open-source-policy/blob/master/policy.md
