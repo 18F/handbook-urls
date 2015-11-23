@@ -1,3 +1,3 @@
 ---
 ---
-https://docs.google.com/a/gsa.gov/document/d/1G2sR8zRX-JrY7ntOqFGqluJ7xJuPHBxa3YkEEQ0QH_c/edit?usp=drive_web
+https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/classes/professional-development-and-training.md
