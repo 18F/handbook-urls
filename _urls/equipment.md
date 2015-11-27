@@ -1,3 +1,3 @@
 ---
 ---
-https://docs.google.com/document/d/1cxJDwhWGVDApAxnhkblupaPQthdtKQO1FmhSgXPdqjA/edit
+https://github.com/18F/handbook/blob/staging/articles/4-how-we-work/equipment.md
