@@ -1,3 +1,3 @@
 ---
 ---
-https://docs.google.com/document/d/1bZWeE0pzsGC9N2Ss5WFBonieqx_PQQvtkm3dHWymtXo/edit
+https://github.com/18F/handbook/blob/staging/articles/4-how-we-work/networks.md
