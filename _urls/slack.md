@@ -1,3 +1,3 @@
 ---
 ---
-https://docs.google.com/document/d/1aNFd-lw2ueYLi_nUVLIX801r4RUtEBJp0bGdyNAkHJI/edit
+https://github.com/18F/handbook/blob/staging/articles/4-how-we-work/tools/slack.md
