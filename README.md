@@ -1,6 +1,6 @@
 # 18F Handbook URLs
 
-A URL shortner to use in conjunction with our [18F Handbook](https://github.com/18F/handbook/). 18F is in the process of wrapping our arms around our existing documentation &mdash; we&rsquo;ve got a lot of it &mdash; and migrating it all to GitHub. In the process, links get broken and people aren't sure where to look. A URL shortner gets around this by providing us with a single, canonical source for information that will eventually live in the handbook.
+A URL shortener to use in conjunction with our [18F Handbook](https://github.com/18F/handbook/). 18F is in the process of wrapping our arms around our existing documentation &mdash; we&rsquo;ve got a lot of it &mdash; and migrating it all to GitHub. In the process, links get broken and people aren't sure where to look. A URL shortener gets around this by providing us with a single, canonical source for information that will eventually live in the handbook.
 
 An index of the documentation pages [can be found here](https://github.com/18F/handbook#readme).  
 
