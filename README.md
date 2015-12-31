@@ -16,7 +16,7 @@ The site will then be available at [http://127.0.0.1:4000](http://127.0.0.1:4000
 
 ## Creating a URL
 
-Simply add a new page to the `pages` directory and follow the format of other pages. 
+Simply add a new page to the `urls` directory and follow the format of other pages. 
 
 The current list of URLs is:
 
