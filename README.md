@@ -22,7 +22,6 @@ The current list of URLs is:
 
 ```
 18f-classes
-18f-classes
 acano
 accessibility
 amazon-web-services
@@ -31,6 +30,7 @@ appearin
 atom
 benefits
 buddy-handbook
+checklist
 chicago
 classes
 code-of-conduct
@@ -46,16 +46,18 @@ engineering
 equipment
 ethnio
 federal-records
+general-contacts-and-listservs
 getting-started
 git
 github-and-18f-site
 github
 glossary
+gmail
 google-calendar
 google-docs
 google-drive
 google-hangouts
-gsa-tools
+gsa-tools-equipment-and-transit
 guides
 hatch-act-foia-ethics-code-of-conduct
 hiring
@@ -65,6 +67,7 @@ individual-development-plans
 infrastructure
 intro-to-18f-consulting
 intro-to-18f-engineering
+intro-to-18f-infrastructure-and-devops
 intro-to-18f-infrastructure
 intro-to-outreach
 intro-to-product-and-open-source
@@ -72,7 +75,8 @@ intro-to-the-18f-blog
 intro-to-the-diversity-working-group
 intro-to-writing-lab
 invision
-leave-telework-and-virtual-work
+issues
+leave-telework-and-virtual-worker
 meetings-and-meeting-tools
 meetings
 mission
@@ -80,6 +84,8 @@ murally
 networks
 new-york-city
 nyc
+offices
+omnigraffle
 onboarding-buddies
 onboarding-checklist
 onboarding-schedule
@@ -90,16 +96,19 @@ ops
 org-chart
 outreach
 performance-plans
+policies
 product-lead
 product
 professional-development-and-training
 project-intake-101
 project-selection
 projects
+pulls
 quicktime
 remote-access
 remote
 san-francisco
+secureauth-otp
 security-and-privacy
 sfo
 sketch
@@ -108,6 +117,7 @@ slack
 social-media
 sublime
 talent
+teams
 terminal
 text-editors
 tock
@@ -121,7 +131,7 @@ twitter
 ubuntu
 waffle
 washington-dc
-welcome
+welcome-from-phaedra-and-aaron
 working-groups-and-guilds-101
 workshops
 ```
