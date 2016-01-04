@@ -44,7 +44,6 @@ distributed
 docker
 engineering
 equipment
-ethnio
 federal-records
 general-contacts-and-listservs
 getting-started
@@ -74,7 +73,6 @@ intro-to-product-and-open-source
 intro-to-the-18f-blog
 intro-to-the-diversity-working-group
 intro-to-writing-lab
-invision
 issues
 leave-telework-and-virtual-worker
 meetings-and-meeting-tools
@@ -111,7 +109,6 @@ san-francisco
 secureauth-otp
 security-and-privacy
 sfo
-sketch
 slack-and-social-media
 slack
 social-media
